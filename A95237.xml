@@ -1,0 +1,435 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A True relation of the life, conversation, examination, confession, and iust deserved sentence of James Naylor the grand Quaker of England. Who for his blasphemous &amp; abominable opinions, &amp; practises, was whipt at a carts-taile, from Westminster to the Royall-Exchange in London, December the eighteenth 1656 and thereto stand in the pillory, and to have the letter B set upon his fore-head, and to be burnt through the toung with a hot iron, and to be kept in prison during life, without being allowed any sustenance, but what he shall earne with his owne labor.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1656</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 15 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A95237</idno>
+            <idno type="STC">Wing T2998</idno>
+            <idno type="STC">Thomason E1645_4</idno>
+            <idno type="STC">ESTC R209084</idno>
+            <idno type="EEBO-CITATION">99867987</idno>
+            <idno type="PROQUEST">99867987</idno>
+            <idno type="VID">170205</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A95237)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 170205)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 207:E1645[4])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A True relation of the life, conversation, examination, confession, and iust deserved sentence of James Naylor the grand Quaker of England. Who for his blasphemous &amp; abominable opinions, &amp; practises, was whipt at a carts-taile, from Westminster to the Royall-Exchange in London, December the eighteenth 1656 and thereto stand in the pillory, and to have the letter B set upon his fore-head, and to be burnt through the toung with a hot iron, and to be kept in prison during life, without being allowed any sustenance, but what he shall earne with his owne labor.</title>
+               </titleStmt>
+               <extent>16 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Thomas Vere at the Angell without Newgate.,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1657. [i.e. 1656]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>With a woodcut representing Naylor in the pillory and being whipped at the cart's tail.</note>
+                  <note>Annotation on Thomason copy: "Decemb. 20."; the 7 in the imprint date has been crossed out and replaced with a "6".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Naylor, James, 1617?-1660 --  Early works to 1800.</term>
+               <term>Society of Friends --  Early works to 1800.</term>
+               <term>Religious tolerance --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-08</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-09</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-09</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="frontispiece">
+            <pb facs="tcp:170205:2"/>
+            <p>
+               <figure>
+                  <figDesc>the punishments of James Naylor</figDesc>
+               </figure>
+            </p>
+            <p>The manner how <hi>James Naylor</hi> ſtood in the Pilory, and was whipt from the Pallace-yard at <hi>Weſtminſter,</hi> to the Royall Exchange in <hi>London,</hi> De<g ref="char:EOLhyphen"/>cember the 18. 1656.</p>
+         </div>
+         <div type="title_page">
+            <pb facs="tcp:170205:1" rendition="simple:additions"/>
+            <p>A true RELATION <hi>OF</hi> The Life, Converſa<g ref="char:EOLhyphen"/>tion, Examination, Confeſ<g ref="char:EOLhyphen"/>ſion, and iuſt deſerved Sen<g ref="char:EOLhyphen"/>tence of <hi>James Naylor</hi> the grand Quaker of ENGLAND.</p>
+            <p>Who for his Blaſphemous &amp; abo<g ref="char:EOLhyphen"/>minable Opinions, &amp; Practiſes, was Whipt at a Carts-taile, from <hi>Weſtmin<g ref="char:EOLhyphen"/>ſter</hi> to the <hi>Royall-Exchange</hi> 
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n <hi>L<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>don, December</hi> the eighteenth 1656. and thereto ſtand in the Pillory, and to have the letter <hi>B</hi> ſet upon his fore<g ref="char:EOLhyphen"/>head, and to be burnt through the toung with a hot Iron, and to be kept in priſon during life, without being allowed any ſuſtenance, but what he ſhall earne with his owne Labor.</p>
+            <p>London, Printed for <hi>Thomas Vere</hi> at the <hi>Angill</hi> without <hi>Newgate.</hi> 1657</p>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb facs="tcp:170205:2" rendition="simple:additions"/>
+         </div>
+      </front>
+      <body>
+         <div type="biography">
+            <pb facs="tcp:170205:3"/>
+            <pb n="5" facs="tcp:170205:3"/>
+            <head>THE Life &amp; Converſation of <hi>JAMES NAYLOR.</hi>
+            </head>
+            <p>
+               <hi>
+                  <seg rend="decorInit">I</seg>Ames Naylor</hi> was born at <hi>Anderſlow in Yorke-ſhire,</hi> his Father being a Sow-gelder, brought up his Son <hi>James</hi> to the ſame Trade, who uſ'd it a long while, untill the late wars, at which time he went for a Souldier and ſince that married a Wife who lives now in <hi>VVakefield</hi> with her Children: for<g ref="char:EOLhyphen"/>merly he was of the Church of one Mr. <hi>Chriſtopher Marſhall in Yorke-ſhir,</hi> and for his ſeandalus practices was caſt out of the ſaid Congregation, and ſo can away from his Wife and Chil<g ref="char:EOLhyphen"/>dren to <hi>London;</hi> and being aſkt why he left his Wife, he ſaid he had an imedi<g ref="char:EOLhyphen"/>ate can for it: in his ſtay at <hi>London</hi> he preſantly became familiar with one <hi>Ropers</hi> Wife, whom he often ſet upon his knée and ſhe kill him, being aſked why ſhe did ſo, ſhe ſaid ſhe kill him not out of wantonneſſe, but in a dſere
+<pb n="6" facs="tcp:170205:4"/>
+relation yet not withſtanding we proud with Child, 47 w\l=e'\eke after her huſ<g ref="char:EOLhyphen"/>band was gone from her. As alſo one <hi>Rebecca Purnell</hi> a banſome Maid, whom the ſaid <hi>Naylor</hi> ſolicited to lye withall, who did refuſe him, though ſhe let a<g ref="char:EOLhyphen"/>nother <hi>Quaker</hi> doe it; and ſuch was his baſe deſire after her, that many queſtioned him for it, be ſaid that he would give his Wife the ſame liberty he deſir'd of her. And that he could as freely lye with <hi>Rebecca Purnell</hi> of any other of his ſociety as his owne Wife.</p>
+            <p>The ſaid <hi>Naylor</hi> and his company met often at Mr. <hi>Roberts</hi> his Houſe in <hi>St. Thomas Apoſtles:</hi> where met him one <hi>Stephen</hi> a Cloth drawer, at which time ſame one <hi>Burroughs</hi> and rub'd ſomething one his wriſt, after which time he was ſo adicted to that wicked company, that he could not but run af<g ref="char:EOLhyphen"/>ter them and doe what he ſuppoſed the Spirit in him dictated to him, which did adviſe him to eat and drinke no<g ref="char:EOLhyphen"/>thing but Bread and Water for 12 dayes upon which he was convicted that their practiſed were bad, and ſo he now forſakes and abominats them.</p>
+         </div>
+         <div type="judicial_inquiry">
+            <pb n="7" facs="tcp:170205:4"/>
+            <head>THE EXAMINATION OF James Nailor;</head>
+            <head type="sub">November the 15. 1657.</head>
+            <p>BEing aſked his name, whether it was not <hi>Iames Naylor</hi> or not? and whether he went not into <hi>Briſtoll</hi> on Horſe back, a VVo<g ref="char:EOLhyphen"/>man leading his Horſe, and others ſing<g ref="char:EOLhyphen"/>ing before <hi>Holy, Holy, Holy,</hi> and whether any Garments were ſpread.</p>
+            <p>
+               <label>A.</label> That Men call him <hi>Iames Nay<g ref="char:EOLhyphen"/>lor;</hi> but what the name of the Town was he knoweth not, and that he did ride into a Towne, and a Woman
+<pb n="8" facs="tcp:170205:5"/>
+held his Horſe by the bridle, and that ſome caſt downe cloathes and ſang Praiſes unto the Lord, ſuch ſongs as the Lord put in their hearts; and it is like it was the ſong of <hi>Holy, Holy, Holy.</hi>
+            </p>
+            <p>
+               <label>Q.</label> 
+               <hi>Being aſked whether he reproved them or not.</hi>
+            </p>
+            <p>
+               <label>A.</label> Nay but I had them take héed that they ſang not any thing but what they was moved of the Lord.</p>
+            <p>
+               <label>Q.</label> 
+               <hi>Being aſked whether he owned <hi>Hanna Stangars</hi> Letter? and the Letter ſhewed him,</hi>
+            </p>
+            <p>
+               <label>A</label> Yea, he did owne the Letter.</p>
+            <p>
+               <label>Q.</label> 
+               <hi>Being aſked if according to the Letter to him, if he was the faireſt of ten thouſand,</hi>
+            </p>
+            <p>
+               <label>A.</label> As to the viſible be denyeth any ſuch atribute due to him but if to that which the Father hath begotten in him he owneth it.</p>
+            <p>
+               <label>Q.</label> 
+               <hi>Being aſked if he were the only Son of God.</hi>
+            </p>
+            <p>
+               <label>A.</label> That he owneth not the onely Son, but that he is the Son of God, for he hath many Brethren,</p>
+            <p>
+               <pb n="9" facs="tcp:170205:5"/>
+               <label>Q.</label> 
+               <hi>Have any called; ou by the name of <hi>Ieſus.</hi>
+               </hi>
+            </p>
+            <p>
+               <label>A.</label> Not as to the viſible, but as the Jeſus the Chriſt that is in me, he de<g ref="char:EOLhyphen"/>nyeth not, but that it was written to him.</p>
+            <p>
+               <label>Q.</label> 
+               <hi>Doe you owne the name of the King of <hi>Iſrael.</hi>
+               </hi>
+            </p>
+            <p>
+               <label>A.</label> As a Creature be denyed it, but if they gave it Chriſt in him, he owneth it; and ſaith that be hath a Kingdom, but not of this World.</p>
+            <p>
+               <label>Q.</label> 
+               <hi>Whether he was the Prophet of the moſt high.</hi>
+            </p>
+            <p>
+               <label>A.</label> That he was a Prophet, he own<g ref="char:EOLhyphen"/>eth.</p>
+            <p>
+               <label>Q.</label> 
+               <hi>whether he owneth that Attribute, the judge of Iſrael.</hi>
+            </p>
+            <p>
+               <label>A.</label> The Judge is but one, and is witneſſed in me, and is the Chriſt, there muſt not be any joyned with him, if they ſpeake of the Spirit in me, I own it, only as God is manifeſt in the fleſh according as God dwelleth in me, and judgeth there himſelfe.</p>
+            <p>
+               <label>Q.</label> 
+               <hi>By whom were you ſent.</hi>
+            </p>
+            <p>
+               <label>A.</label> By him who hath ſent the Spi<g ref="char:EOLhyphen"/>rit of his Son in me to try, not as to
+<pb n="10" facs="tcp:170205:6"/>
+carnall matters, but belonging to the Kingdom of God, by the indwelling of the father and Son, by the judge of all Spirits, to be guided by-none.</p>
+            <p>
+               <label>Q.</label> 
+               <hi>Is not the written word of God the guide.</hi>
+            </p>
+            <p>
+               <hi>A.</hi> The written word declares of it, and is not according to that, is not true.</p>
+            <p>
+               <label>Q.</label> 
+               <hi>Whether he be more ſent then a<g ref="char:EOLhyphen"/>ny others, or whether others are not ſent in that meaſure,</hi>
+            </p>
+            <p>
+               <label>A.</label> As to that I have nothing at preſent given of my Father to anſwer</p>
+            <p>
+               <label>Q.</label> 
+               <hi>Whether was your birth immor<g ref="char:EOLhyphen"/>tal.</hi>
+            </p>
+            <p>
+               <label>A.</label> Not according to the naturall birth, but according to the Spirituall birth, borne of the immortall ſeed.</p>
+            <p>
+               <label>Q.</label> 
+               <hi>Whether any one hath called him the Lamb of God.</hi>
+            </p>
+            <p>
+               <label>A.</label> I looke not back to the things be<g ref="char:EOLhyphen"/>hind, but it may be ſome ſuch thing in the Letter, and ſaith y<hi rend="sup">t</hi> he is a Lamb, and hath ſought it long before he could witneſſe it.</p>
+            <p>
+               <label>Q.</label> 
+               <hi>Who is your Mother, whether a Virgin.</hi>
+            </p>
+            <p>
+               <pb n="11" facs="tcp:170205:6"/>
+               <label>A.</label> Nay, according to my Naturall birth.</p>
+            <p>
+               <label>Q.</label> 
+               <hi>Who is your Mother according to the Spirituall birth.</hi>
+            </p>
+            <p>
+               <label>A.</label> No carnall Creature.</p>
+            <p>
+               <label>Q.</label> 
+               <hi>Who then.</hi>
+            </p>
+            <p>
+               <hi>To that he would not answer.</hi>
+            </p>
+            <p>
+               <label>Q.</label> 
+               <hi>Is the hope of Iſrael in you.</hi>
+            </p>
+            <p>
+               <label>A.</label> The hope is in Chriſt, and as Chriſt is in me, ſo far the hope of <hi>Iſra<g ref="char:EOLhyphen"/>el</hi> ſtands; Chriſt in me the hopes of Glory.</p>
+            <p>
+               <label>Q.</label> 
+               <hi>What more hope in you then o<g ref="char:EOLhyphen"/>thers.</hi>
+            </p>
+            <p>
+               <label>A.</label> None can know but them of <hi>Iſ<g ref="char:EOLhyphen"/>rael,</hi> and <hi>Iſrael</hi> muſt give an account.</p>
+            <p>
+               <label>Q</label> 
+               <hi>Whether he be the everlaſting Son of God.</hi>
+            </p>
+            <p>
+               <label>A.</label> Where God is manifeſt in the Fleſh, there is the everlaſting Son, and I doe witneſſe God manifeſt in the Fleſh.</p>
+            <p>
+               <label>Q.</label> 
+               <hi>Whether he be the Prince of Peace.</hi>
+            </p>
+            <p>
+               <label>A.</label> That the Prince of everlaſting peace is begoteten in him.</p>
+            <p>
+               <label>Q.</label> 
+               <hi>VVhether he reproved them that gave him theſe Attributes.</hi>
+            </p>
+            <p>
+               <pb n="12" facs="tcp:170205:7"/>
+               <label>A.</label> He ſaid nothing to them, but ſaith ſach things was Written?</p>
+            <p>
+               <label>Q</label> 
+               <hi>Did any kiſſe your feet.</hi>
+            </p>
+            <p>
+               <label>A.</label> It might be they did, but he did not mind them.</p>
+            <p>
+               <label>Q.</label> 
+               <hi>VVhether when you was called the King of Jſraell, did you not anſwer [thou ſaieſt it.]</hi>
+            </p>
+            <p>
+               <label>A.</label> Yea.</p>
+            <p>
+               <label>Q.</label> 
+               <hi>Did you not ſay, if ye had known me then ye had known the Father.</hi>
+            </p>
+            <p>
+               <label>A.</label> Yea, and ſaith that none can know his life, but they that know the father, for he is his life.</p>
+            <p>
+               <label>Q.</label> 
+               <hi>Where was you borne,</hi>
+            </p>
+            <p>
+               <label>A.</label> At <hi>Anderſlow</hi> in <hi>Yorkeſhire,</hi> and his Wife lives in <hi>VVakefield</hi> and liued there untill he went into the Army, &amp; was firſt under him they call Lord <hi>Fairfax,</hi> and after under Collonell <hi>Lam<g ref="char:EOLhyphen"/>bert;</hi> and then into <hi>Scotland</hi> and was a <hi>Quarter-maſter,</hi> and returned ſick to his Wife, and was called into the North.</p>
+            <p>
+               <label>Q.</label> 
+               <hi>VVhat went you for, to <hi>Exeter.</hi>
+               </hi>
+            </p>
+            <p>
+               <label>A.</label> I was going to <hi>Lawſon</hi> to ſée the Brethren.</p>
+            <p>
+               <label>Q.</label> 
+               <hi>VVhat Eſtate have you.</hi>
+            </p>
+            <p>
+               <pb n="13" facs="tcp:170205:7"/>
+               <label>A,</label> I take no care for that,</p>
+            <p>
+               <label>Q.</label> 
+               <hi>Doth God in extraordinary man<g ref="char:EOLhyphen"/>ner feed you; or ſuſtaine you without,</hi>
+            </p>
+            <p>
+               <label>A,</label> Man liveth not by Bread alone, but by every word that proceedeth out of the mouth of the Father, and that the ſame life is in him, as in Chriſt, but not in the ſame meaſure.</p>
+            <p>
+               <label>Q.</label> 
+               <hi>How are you clothed,</hi>
+            </p>
+            <p>
+               <label>A,</label> I know not.</p>
+            <p>
+               <label>Q</label>
+               <hi>Doe you live without Bread,</hi>
+            </p>
+            <p>
+               <label>A:</label> As long as my heauenly father win, I have taſted that Bread, <hi>that he that eateth, ſhall not dye.</hi>
+            </p>
+            <p>
+               <label>Q</label> 
+               <hi>How long have you lived with<g ref="char:EOLhyphen"/>out corporall ſuſtenance, having health,</hi>
+            </p>
+            <p>
+               <label>A,</label> Some fiftéen or ſixtéene dayes ſuſtained by Gods word, without any corporall ſuſtenance.</p>
+            <p>
+               <label>Q.</label> 
+               <hi>VVas <hi>Dorothy Erbery</hi> dead two daies in <hi>Exeter</hi> Goale and did you raiſe her.</hi>
+            </p>
+            <p>
+               <label>A,</label> I can doe nothing of my ſelfe, there is a power within me far above, and I ſhall not beare witneſſe of my ſelfe, the Scripture beares witneſſe, to the power in me, which is everlaſting; its the ſame power we read of in
+<pb n="14" facs="tcp:170205:8"/>
+Scripture.</p>
+            <p>That the Lord hath made him a ſigne of his comming.</p>
+            <p>That that honor belongeth to Chriſt Jeſus, in whom he is revealed, may be given to him, as when on the Earth at <hi>Jeruſalem</hi> according to that meaſure</p>
+            <p>
+               <hi>Dorothy Erbery <hi>anſwered not.</hi>
+               </hi>
+            </p>
+            <p>
+               <hi>Martha Simmons</hi> confeſſeth that ſhe knoweth <hi>James Naylor,</hi> and ſhe came from <hi>Briſtoll</hi> to <hi>Exeter</hi> with him.</p>
+            <p>
+               <label>Q.</label> 
+               <hi>Being aſked whether he be the Prince of Peace,</hi>
+            </p>
+            <p>
+               <label>A,</label> She ſaith that he is a perfect Man, and he that is a perfect Man is the Prince of Peace.</p>
+            <p>
+               <label>Q.</label> 
+               <hi>VVhether ſhe ſang before <hi>Iames Naylor,</hi>
+               </hi>
+            </p>
+            <p>
+               <label>A.</label> It's our life to praiſe the Lord, and that the Lord my ſtrength, that filleth Heaven and Earth is manifeſt in <hi>James Naylor,</hi> and that ſhe ſpread her Garments in obedienc to the Lord</p>
+            <p>
+               <hi>She confeſſeth all the <hi>Briſtoll</hi> Examination.</hi>
+            </p>
+            <p>
+               <pb n="15" facs="tcp:170205:8"/>
+               <hi>HAnna Stangar</hi> ſaith ſhe came from <hi>Briſtoll</hi> to <hi>Exeter</hi> with <hi>James Nay<g ref="char:EOLhyphen"/>lor,</hi> and that ſhe flung her Handker<g ref="char:EOLhyphen"/>chiefe before him, becauſe commanded ſo of the Lord; and that ſhe did ſing <hi>Holy, Holy, Holy,</hi> before him, or elſe ſhe doth witneſſe, that the Lord is ri<g ref="char:EOLhyphen"/>ſen in him.</p>
+            <p>
+               <label>Q.</label> 
+               <hi>Being aſked about the Letter, wherein ſhe calleth him the Son of God</hi>
+            </p>
+            <p>
+               <label>A.</label> She owneth the Letter and be<g ref="char:EOLhyphen"/>leeveth nothing added.</p>
+            <p>
+               <label>Q.</label> 
+               <hi>whether ſhe called him Jeſus.</hi>
+            </p>
+            <p>
+               <hi>She would not anſwer.</hi>
+            </p>
+            <p>
+               <label>Q</label> 
+               <hi>Did you kiſſe his feet.</hi>
+            </p>
+            <p>
+               <label>A,</label> Yea.</p>
+            <p>
+               <hi>Tho. Stangar <hi>confeſſeth he ſaw Gar<g ref="char:EOLhyphen"/>ments ſpread, but he now owneth a Let<g ref="char:EOLhyphen"/>ter in which he calleth <hi>Iames Naylor</hi> Je<g ref="char:EOLhyphen"/>ſus: and ſaith he was moved of the Lord ſo to doe.</hi>
+               </hi>
+            </p>
+         </div>
+         <div type="verdict">
+            <pb n="16" facs="tcp:170205:9"/>
+            <opener>
+               <dateline>
+                  <date>Monday <hi>December</hi> 8 1656.</date>
+               </dateline>
+            </opener>
+            <p>UPon ſerious conſideration of theſe his horrid Blaſphemies and wicked practiſes, it was voted that <hi>James Naylor</hi> upon the whole matter of Fact is guilty of horrid Blaſhemy.</p>
+            <p>That the ſaid <hi>James Naylor</hi> is alſo a grand Impoſter, and a great Seducer of the People.</p>
+         </div>
+         <div type="sentence">
+            <head>
+               <hi>Iames Naylor</hi> his Sentence.</head>
+            <p>FOr theſe his Blaſphemous opini<g ref="char:EOLhyphen"/>ons and practiſes, the ſaid <hi>James Naylor</hi> is to he whipt at a Carts-taile from the <hi>Pallace-yard</hi> in <hi>VVeſtminiſter,</hi> to the <hi>Royal-Exchange</hi> in <hi>London</hi> and there to ſtand in the Pillory, and the letter B to be ſet upon his fore head, and to be burnt thorow the tongue with a hot Iron, afterwards to be car<g ref="char:EOLhyphen"/>ried downe to <hi>Briſtoll</hi> and to be whipt though the ſtréets of that Citty, after<g ref="char:EOLhyphen"/>ward to be put into <hi>Bridewell,</hi> &amp; there to be kept during life and to have no ſuſtenance allowed him but what he ſhall get by his owne labor.</p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
